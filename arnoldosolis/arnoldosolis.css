@@ -1,3 +1,8 @@
+body
+{
+  background-color: #141414;
+}
+
 /*
   Centers all header 1 tags 
 */
@@ -5,6 +10,7 @@ h1
 {
   display: flex;
   justify-content: center;
+  color: #FFFAFA;
 }
 
 /*
@@ -14,6 +20,7 @@ h2
 {
   display: flex;
   justify-content: center;
+  color: #FFFAFA;
 }
 
 /*
@@ -31,8 +38,6 @@ h2
   /*
     Sets the size of Image
   */
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
+  border-radius: 12px;
   width: 600px;
 }
