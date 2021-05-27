@@ -1,19 +1,38 @@
+/*
+  Centers all header 1 tags 
+*/
 h1 
 {
   display: flex;
   justify-content: center;
 }
 
+/*
+  Centers all header 2 tags
+*/
 h2
 {
   display: flex;
   justify-content: center;
 }
 
+/*
+  Centers the wolf picture 
+*/
 .wolfimg
 {
+  /*
+    Centers
+  */
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  /*
+    Sets the size of Image
+  */
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 600px;
 }
