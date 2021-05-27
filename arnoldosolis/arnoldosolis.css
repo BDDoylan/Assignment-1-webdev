@@ -1,0 +1,19 @@
+h1 
+{
+  display: flex;
+  justify-content: center;
+}
+
+h2
+{
+  display: flex;
+  justify-content: center;
+}
+
+.wolfimg
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
