@@ -1,26 +1,13 @@
-/*
-    Background color
-*/
-
-body 
-{
-    background-color:  #89cff0
-}
-
-/*
-  Centers all header 1 tags 
-*/
-h1 
-{
-  display: flex;
-  justify-content: center;
-}
-
-/*
-  Centers all header 2 tags
-*/
-h2
-{
-  display: flex;
-  justify-content: center;
-}
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
