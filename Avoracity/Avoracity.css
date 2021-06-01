@@ -4,7 +4,7 @@
 
 body 
 {
-  background-image: ("moon_aesthetic.jpg");
+  background-image: url("moon_aesthetic.jpg");
   background-color:  #89cff0
 }
 
