@@ -12,21 +12,23 @@ html
 }
 
 /*
-  Centers all header 1 tags 
+  Centers all header 1 tags | change color
 */
 h1 
 {
   display: flex;
   justify-content: center;
+  color:indigo;
 }
 
 /*
-  Centers all header 2 tags
+  Centers all header 2 tags | change color
 */
 h2
 {
   display: flex;
   justify-content: center;
+  color:indigo;
 }
 
 /*
