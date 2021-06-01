@@ -2,10 +2,11 @@
     Background color
 */
 
-body 
+html 
 {
 
-  background-image: url("moon_aesthetic.jpg");
+  background: url("moon_aesthetic.jpg") no-repeat center fixed;
+  background-size: cover;
   background-color:  #89cff0;
 
 }
