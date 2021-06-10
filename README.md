@@ -1,7 +1,11 @@
 # Assignment-1
 
 ## Members:
-### Doylan Mihov, Benjamin Izrailov, Arnoldo Solis, Michael Alvarez
+
+### Doylan Mihov - github.com/BDDoylan
+### Benjamin Izrailov - github.com/MediumBen
+### Arnoldo Solis - github.com/arnoldosolis
+### Michael Alvarez - github.com/Avoracity
 
 ## Goal:
 ### To work as a group to create a website utilizing git and GitHub. Demonstrate understanding of git commands and GitHub workflow.
